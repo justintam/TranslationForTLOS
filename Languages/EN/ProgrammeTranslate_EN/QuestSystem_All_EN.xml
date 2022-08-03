@@ -141,7 +141,7 @@
    <!-- QuestBanishLand任务菜单的任务描述开始 -->
     <string id="strQuestDescription1001" text="Elin's queen Radruweel wants you to go to The State of Banishment, and clear out all of the Devour Demons there." />
     <string id="strQuestDescription1002" text="By the power of Bracelet you enter The State of Banishment. Leave here and report your progress with Elin's queen Radruweel." />
-    <string id="strQuestDescription1003" text="Elin becomes your ally. Elin's princess Melethvon joins your party. At the same time, every week, the power of Bracelet is restored. You can enter The state of banishment in any town's menu option.{newline}(1.4.7 The story line ends here, thanks to play this mod, please wait for update!)" />
+    <string id="strQuestDescription1003" text="Elin becomes your ally. Elin's princess Melethvon joins your party. At the same time, every week, the power of Bracelet is restored. You can enter The state of banishment in any town's menu option.{newline}(1.4.7 The story line ends here, thanks to play this mod, please follow us on ModDB and Nexusmods to waiting for update!)" />
    <!-- QuestBanishLand任务菜单的任务描述结束 -->
   <!-- 文件QuestBanishLand.cs结束 -->
 
