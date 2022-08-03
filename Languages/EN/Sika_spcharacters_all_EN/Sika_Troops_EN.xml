@@ -94,6 +94,10 @@
     <string id="NTMGR09" text="Mogrian Veteran Horse Archer" />
     <string id="NTMGR10" text="Mogrian Eagle Shooter" />
     <string id="NTMGR11" text="Mogrian Veteran Lancer" />
+    <string id="NTMGR12" text="Mogrian Footman" />
+    <string id="NTMGR13" text="Mogrian Veteran Spearman" />
+    <string id="NTMGR14" text="Mogrian Huntsman" />
+    <string id="NTMGR15" text="Mogrian Foot Archer" />
     <string id="OTMGR16" text="Mogrian Tribal Youth" />
     <string id="OTMGR17" text="Mogrian Tribal Horse Archer" />
     <string id="OTMGR18" text="Mogrian Tribal Veteran Horse Archer" />
@@ -119,10 +123,6 @@
     <string id="NTNKN10" text="Nekenia Shieldguard" />
     <string id="NTNKN11" text="Nekenia Veteran" />
     <string id="NTNKN12" text="Nekenia Invader" />
-    <string id="NTMGR12" text="Mogrian Footman" />
-    <string id="NTMGR13" text="Mogrian Veteran Spearman" />
-    <string id="NTMGR14" text="Mogrian Huntsman" />
-    <string id="NTMGR15" text="Mogrian Foot Archer" />
     <string id="OTNKN13" text="Nekenia Guard Youth" />
     <string id="OTNKN14" text="Nekenia Guard Veteran" />
     <string id="OTNKN15" text="Nekenia Huscarl" />
