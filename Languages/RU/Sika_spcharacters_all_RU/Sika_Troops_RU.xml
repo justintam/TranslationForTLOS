@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -6,296 +6,296 @@
   <strings>
   <!-- 兵种名称的英文文本 -->
   <!-- 炎朝 -->
-    <string id="NTJDY01" text="Yan Farmer" />
-    <string id="NTJDY02" text="Yan Recruit" />
-    <string id="NTJDY03" text="Yan Light Infantry" />
-    <string id="NTJDY04" text="Yan Light Spearman" />
-    <string id="NTJDY05" text="Yan Light Crossbowman" />
-    <string id="NTJDY06" text="Yan Infantry" />
-    <string id="NTJDY07" text="Yan Dagger-Axe Infantry" />
-    <string id="NTJDY08" text="Yan Mainstay Crossbowman" />
-    <string id="NTJDY09" text="Yan Mainstay Infantry" />
-    <string id="NTJDY10" text="Yan Triple-Pointed-Blade Infantry" />
-    <string id="NTJDY11" text="Yan Cavalry" />
-    <string id="NTJDY12" text="Yan Tiger Knight" />
-    <string id="NTJDY13" text="Yan Heavy Infantry" />
-    <string id="NTJDY14" text="Yan Po-Blade Warrior" />
-    <string id="NTJDY15" text="Yan Heavy Crossbowman" />
-    <string id="NTJDY16" text="Yan Heavy Mo-Blade Warrior" />
-    <string id="OTJDY17" text="Yan Border Recruit" />
-    <string id="OTJDY18" text="Yan Border Infantry" />
-    <string id="OTJDY19" text="Yan Repeating Crossbowman" />
-    <string id="OTJDY20" text="Yan Border Halberdier" />
-    <string id="OTJDY21" text="Yan Protectorate Crossbowman" />
-    <string id="OTJDY22" text="Yan Protectorate Halberdier" />
-    <string id="MLTJDY23" text="Yan Defence Infantry" />
-    <string id="MLTJDY24" text="Yan Defence Crossbowman" />
-    <string id="MLTJDY25" text="Yan Armed Defence Infantry" />
-    <string id="MLTJDY26" text="Yan Trained Defence Crossbowman" />
-    <string id="OTJDY27" text="Yan Border Crossbowman" />
+    <string id="NTJDY01" text="Фермер Ян" />
+    <string id="NTJDY02" text="Новобранец Ян" />
+    <string id="NTJDY03" text="Легкая пехота Ян" />
+    <string id="NTJDY04" text="Легкий копейщик династии Ян" />
+    <string id="NTJDY05" text="Легкий арбалетчик Ян" />
+    <string id="NTJDY06" text="Пехотинец Ян" />
+    <string id="NTJDY07" text="Наемный клинок Ян" />
+    <string id="NTJDY08" text="Опорный арбалетчик Ян" />
+    <string id="NTJDY09" text="Опорный пехотинец Ян" />
+    <string id="NTJDY10" text="Трехконусная пехота Ян" />
+    <string id="NTJDY11" text="Кавалерия династии Ян" />
+    <string id="NTJDY12" text="Тигривый рыцарь Ян" />
+    <string id="NTJDY13" text="Тяжелый солдат Ян" />
+    <string id="NTJDY14" text="Великий мечник Ян" />
+    <string id="NTJDY15" text="Тяжелый арбалетчик династии Ян" />
+    <string id="NTJDY16" text="Страж династии Ян" />
+    <string id="OTJDY17" text="Рекрут границы Ян" />
+    <string id="OTJDY18" text="Пехотинец границы Ян" />
+    <string id="OTJDY19" text="Арбалетчик (Повторитель) границы Ян" />
+    <string id="OTJDY20" text="Алебардщик границы Ян" />
+    <string id="OTJDY21" text="Гвардия арбалетчиков армии Ян" />
+    <string id="OTJDY22" text="Гвардия алебардщиков армии Ян" />
+    <string id="MLTJDY23" text="Защитная пехота Ян" />
+    <string id="MLTJDY24" text="Защитный арбалетчик Ян" />
+    <string id="MLTJDY25" text="Опытный пехотинец гарнизона Ян" />
+    <string id="MLTJDY26" text="Опытный арбалетчик гарнизона Ян" />
+    <string id="OTJDY27" text="Арбалетчик-граничар династии Ян" />
     
   <!-- 普若尤恩 -->
-    <string id="NTPRU01" text="Prouen Villager" />
-    <string id="NTPRU02" text="Prouen Recruit" />
-    <string id="NTPRU03" text="Prouen Light Infantry" />
-    <string id="NTPRU04" text="Prouen Levy Archer" />
-    <string id="NTPRU05" text="Prouen Infantry" />
-    <string id="NTPRU06" text="Prouen Archer" />
-    <string id="NTPRU07" text="Prouen Cavalry" />
-    <string id="NTPRU08" text="Prouen Pikeman" />
-    <string id="NTPRU09" text="Prouen Heavy Infantry" />
-    <string id="NTPRU10" text="Prouen Longbowman" />
-    <string id="NTPRU11" text="Prouen Heavy Cavalry" />
-    <string id="NTPRU12" text="Prouen Elite Pikeman" />
-    <string id="NTPRU13" text="Prouen Elite Longbowman" />
-    <string id="NTPRU14" text="Prouen Charge Cavalry" />
-    <string id="OTPRU15" text="Prouen Squire" />
-    <string id="OTPRU16" text="Prouen Knight" />
-    <string id="OTPRU17" text="Prouen Honour Knight" />
-    <string id="MLTPRU18" text="Prouen Militia Swordsman" />
-    <string id="MLTPRU19" text="Prouen Militia Archer" />
-    <string id="MLTPRU20" text="Prouen Militia Veteran Swordsman" />
-    <string id="MLTPRU21" text="Prouen Militia Veteran Archer" />
+    <string id="NTPRU01" text="Пруэнский житель деревни" />
+    <string id="NTPRU02" text="Пруэнский доброволец" />
+    <string id="NTPRU03" text="Пруэнский легкий пехотинец" />
+    <string id="NTPRU04" text="Пруэнский лучник ополчения" />
+    <string id="NTPRU05" text="Пруэнская пехота" />
+    <string id="NTPRU06" text="Пруэнский лучник" />
+    <string id="NTPRU07" text="Пруэнский всадник" />
+    <string id="NTPRU08" text="Пруэнский пикинер" />
+    <string id="NTPRU09" text="Пруэнский тяжелый пехотинец" />
+    <string id="NTPRU10" text="Пруэнский лучник-гвардеец" />
+    <string id="NTPRU11" text="Пруэнский тяжелый всадник" />
+    <string id="NTPRU12" text="Пруэнский отборный копьеносец" />
+    <string id="NTPRU13" text="Пруэнский меткий рейнджер" />
+    <string id="NTPRU14" text="Пруэнский тяжелый авангард" />
+    <string id="OTPRU15" text="Пруэнский оруженосец" />
+    <string id="OTPRU16" text="Пруэнский рыцарь" />
+    <string id="OTPRU17" text="Пруэнский благородный рыцарь" />
+    <string id="MLTPRU18" text="Пруэнский мечник ополчения" />
+    <string id="MLTPRU19" text="Пруэнский лучник гарнизона" />
+    <string id="MLTPRU20" text="Пруэнский мечник-ветеран ополчения" />
+    <string id="MLTPRU21" text="Пруэнский лучник-ветеран ополчения" />
 
   <!-- 埃布拉蒙 -->
-    <string id="NTRBL01" text="Rabblam Civilian" />
-    <string id="NTRBL02" text="Rabblam Recruit" />
-    <string id="NTRBL03" text="Rabblam Trainee Mercenary" />
-    <string id="NTRBL04" text="Rabblam Skilled Mercenary" />
-    <string id="NTRBL05" text="Rabblam Mercenary Archer" />
-    <string id="NTRBL06" text="Rabblam Mercenary Cavalry" />
-    <string id="NTRBL07" text="Rabblam Veteran Mercenary" />
-    <string id="NTRBL08" text="Rabblam Skilled Mercenary Archer" />
-    <string id="NTRBL09" text="Rabblam Veteran Mercenary Cavalry" />
-    <string id="NTRBL10" text="Rabblam Mercenary Horse Archer" />
-    <string id="NTRBL11" text="Rabblam Heavy Mercenary" />
-    <string id="NTRBL12" text="Rabblam Mercenary Master" />
-    <string id="OTRBL13" text="Rabblam Mameluke Recruit" />
-    <string id="OTRBL14" text="Rabblam Mameluke Infantry" />
-    <string id="OTRBL15" text="Rabblam Mameluke Rider" />
-    <string id="OTRBL16" text="Rabblam Mameluke Guard" />
-    <string id="OTRBL17" text="Rabblam Mameluke Heavy Horseman" />
-    <string id="OTRBL18" text="Rabblam Mameluke Elite Guard" />
-    <string id="OTRBL19" text="Rabblam Mameluke Horseman Master" />
-    <string id="MLTRBL20" text="Rabblam Protect Infantry" />
-    <string id="MLTRBL21" text="Rabblam Protect Shooter" />
-    <string id="MLTRBL22" text="Rabblam Protect Veteran" />
-    <string id="MLTRBL23" text="Rabblam Protect Archer" />
+    <string id="NTRBL01" text="Эбрамонтский горожанин" />
+    <string id="NTRBL02" text="Эбрамонтский новобранец" />
+    <string id="NTRBL03" text="Эбрамонтский наемник" />
+    <string id="NTRBL04" text="Эбрамонтский обученный наемник" />
+    <string id="NTRBL05" text="Эбрамонтский наемный лучник" />
+    <string id="NTRBL06" text="Эбрамонтский наемный всадник" />
+    <string id="NTRBL07" text="Эбрамонтский наемный ветеран" />
+    <string id="NTRBL08" text="Эбрамонтский обученный наемный лучник" />
+    <string id="NTRBL09" text="Эбрамонтский наемный конный воитель" />
+    <string id="NTRBL10" text="Эбрамонтский наемный конный снайпер" />
+    <string id="NTRBL11" text="Эбрамонтский тяжелый наемник" />
+    <string id="NTRBL12" text="Главный эбрамонтский наемник" />
+    <string id="OTRBL13" text="Эбрамонтский мамлюк-рекрут" />
+    <string id="OTRBL14" text="Эбрамонтский мамлюк-пехота" />
+    <string id="OTRBL15" text="Эбрамонтский мамлюк-наездник" />
+    <string id="OTRBL16" text="Эбрамонтский мамлюк-страж" />
+    <string id="OTRBL17" text="Эбрамонтский тяжелый конный мамлюк" />
+    <string id="OTRBL18" text="Эбрамонтский главный страж-мамлюк" />h
+    <string id="OTRBL19" text="Эбрамонтский главный всадник-мамлюк" />
+    <string id="MLTRBL20" text="Эбрамонтский стражник-пехотинец" />
+    <string id="MLTRBL21" text="Эбрамонтский стрелец гарнизона" />
+    <string id="MLTRBL22" text="Эбрамонтский страж-ветеран" />
+    <string id="MLTRBL23" text="Эбрамонтский лучник-гвардеец" />
         
   <!-- 蒙戈黎安 -->
-    <string id="NTMGR01" text="Mogrian Nomad" />
-    <string id="NTMGR02" text="Mogrian Recruit" />
-    <string id="NTMGR03" text="Mogrian Horseman" />
-    <string id="NTMGR04" text="Mogrian Skirmisher" />
-    <string id="NTMGR05" text="Mogrian Spearman" />
-    <string id="NTMGR06" text="Mogrian Rider" />
-    <string id="NTMGR07" text="Mogrian Horse Archer" />
-    <string id="NTMGR08" text="Mogrian Lancer" />
-    <string id="NTMGR09" text="Mogrian Veteran Horse Archer" />
-    <string id="NTMGR10" text="Mogrian Eagle Shooter" />
-    <string id="NTMGR11" text="Mogrian Veteran Lancer" />
-    <string id="NTMGR12" text="Mogrian Footman" />
-    <string id="NTMGR13" text="Mogrian Veteran Spearman" />
-    <string id="NTMGR14" text="Mogrian Huntsman" />
-    <string id="NTMGR15" text="Mogrian Foot Archer" />
-    <string id="OTMGR16" text="Mogrian Tribal Youth" />
-    <string id="OTMGR17" text="Mogrian Tribal Horse Archer" />
-    <string id="OTMGR18" text="Mogrian Tribal Veteran Horse Archer" />
-    <string id="OTMGR19" text="Mogrian Wind Rider" />
-    <string id="OTMGR20" text="Mogrian Heavy Horseman" />
-    <string id="OTMGR21" text="Mogrian Gale Rider" />
-    <string id="OTMGR22" text="Mogrian Iron Horseman" />
-    <string id="MLTMGR23" text="Mogrian Militia Spearman" />
-    <string id="MLTMGR24" text="Mogrian Militia Bowman" />
-    <string id="MLTMGR25" text="Mogrian Militia Veteran Spearman" />
-    <string id="MLTMGR26" text="Mogrian Militia Bowman" />
+    <string id="NTMGR01" text="Могрианский пастух" />
+    <string id="NTMGR02" text="Могрианский доброволец" />
+    <string id="NTMGR03" text="Могрианский всадник" />
+    <string id="NTMGR04" text="Могрианский застрельщик" />
+    <string id="NTMGR05" text="Могрианский копейщик" />
+    <string id="NTMGR06" text="Могрианская кавалерия" />
+    <string id="NTMGR07" text="Могрианский конный лучник" />
+    <string id="NTMGR08" text="Могрианский улан" />
+    <string id="NTMGR09" text="Могрианский конный лучник-ветеран" />
+    <string id="NTMGR10" text="Могрианский орел-рейнджер" />
+    <string id="NTMGR11" text="Могрианский похититель" />
+	<string id="NTMGR12" text="Могрианский легкий пехотинец" />
+    <string id="NTMGR13" text="Могрианский копьеносец" />
+    <string id="NTMGR14" text="Могрианский охотник" />
+    <string id="NTMGR15" text="Могрианский лучник" />
+    <string id="OTMGR16" text="Могрианский юноша племени" />
+    <string id="OTMGR17" text="Могрианский конный лучник племени" />
+    <string id="OTMGR18" text="Могрианский конный лучник-ветеран племени" />
+    <string id="OTMGR19" text="Могрианский наездник ветра" />
+    <string id="OTMGR20" text="Могрианский тяжелый кавалерист" />
+    <string id="OTMGR21" text="Могрианский всадник бури" />
+    <string id="OTMGR22" text="Могрианский железный всадник" />
+    <string id="MLTMGR23" text="Могрианский копейщик ополчения" />
+    <string id="MLTMGR24" text="Могрианский лучник ополчения" />
+    <string id="MLTMGR25" text="Могрианский копейщик-ветеран ополчения" />
+    <string id="MLTMGR26" text="Могрианский лучник-ветеран ополчения" />
     
   <!-- 纳堪维亚 -->
-    <string id="NTNKN01" text="Nekenia Villager" />
-    <string id="NTNKN02" text="Nekenia Robber" />
-    <string id="NTNKN03" text="Nekenia Huntsman" />
-    <string id="NTNKN04" text="Nekenia Footman" />
-    <string id="NTNKN05" text="Nekenia Archer" />
-    <string id="NTNKN06" text="Nekenia Skirmisher" />
-    <string id="NTNKN07" text="Nekenia Spearwielder" />
-    <string id="NTNKN08" text="Nekenia Warrior" />
-    <string id="NTNKN09" text="Nekenia Veteran Spearwielder" />
-    <string id="NTNKN10" text="Nekenia Shieldguard" />
-    <string id="NTNKN11" text="Nekenia Veteran" />
-    <string id="NTNKN12" text="Nekenia Invader" />
-    <string id="OTNKN13" text="Nekenia Guard Youth" />
-    <string id="OTNKN14" text="Nekenia Guard Veteran" />
-    <string id="OTNKN15" text="Nekenia Huscarl" />
-    <string id="MLTNKN16" text="Nekenia Militia Axeman" />
-    <string id="MLTNKN17" text="Nekenia Militia Archer" />
-    <string id="MLTNKN18" text="Nekenia Veteran Militia Axeman" />
-    <string id="MLTNKN19" text="Nekenia Militia Veteran Archer" />
+    <string id="NTNKN01" text="Житель Некении" />
+    <string id="NTNKN02" text="Грабитель Некении" />
+    <string id="NTNKN03" text="Охотник Некении" />
+    <string id="NTNKN04" text="Пехотинец Некении" />
+    <string id="NTNKN05" text="Лучник Некении" />
+    <string id="NTNKN06" text="Застрельщик Некении" />
+    <string id="NTNKN07" text="Копьеносец Некении" />
+    <string id="NTNKN08" text="Воин Некении" />
+    <string id="NTNKN09" text="Ветеран копьеносец Некении" />
+    <string id="NTNKN10" text="Щитовой страж Некении" />
+    <string id="NTNKN11" text="Ветеран Некении" />
+    <string id="NTNKN12" text="Рейдер Некении" />
+    <string id="OTNKN13" text="Молодой страж Некении" />
+    <string id="OTNKN14" text="Опытный страж Некении" />
+    <string id="OTNKN15" text="Хускарл Некении" />
+    <string id="MLTNKN16" text="Топоршик Некенского ополчения" />
+    <string id="MLTNKN17" text="Лучник Некенского ополчения" />
+    <string id="MLTNKN18" text="Искусный топорщик Некенского ополчения" />
+    <string id="MLTNKN19" text="Ветеран стрелок Некенского ополчения" />
 
   <!-- 乌拉索维 -->
-    <string id="NTWLT01" text="Wulltes Countryman" />
-    <string id="NTWLT02" text="Wulltes Huntsman" />
-    <string id="NTWLT03" text="Wulltes Artisan" />
-    <string id="NTWLT04" text="Wulltes Skirmisher" />
-    <string id="NTWLT05" text="Wulltes Soldier" />
-    <string id="NTWLT06" text="Wulltes Archer" />
-    <string id="NTWLT07" text="Wulltes Riding Axeman" />
-    <string id="NTWLT08" text="Wulltes Axeman" />
-    <string id="NTWLT09" text="Wulltes Shock Axeman" />
-    <string id="NTWLT10" text="Wulltes Guard" />
-    <string id="NTWLT11" text="Wulltes Marksman" />
-    <string id="NTWLT12" text="Wulltes Ranger" />
-    <string id="OTWLT13" text="Wulltes Heroic Man" />
-    <string id="OTWLT14" text="Wulltes Bow Warrior" />
-    <string id="OTWLT15" text="Wulltes Axe Warrior" />
-    <string id="OTWLT16" text="Wulltes Bow Valiant" />
-    <string id="OTWLT17" text="Wulltes Axe Valiant" />
-    <string id="OTWLT18" text="Wulltes Master Archer" />
-    <string id="OTWLT19" text="Wulltes Great Axeman" />
-    <string id="MLTWLT20" text="Wulltes Militia Soldier" />
-    <string id="MLTWLT21" text="Wulltes Militia Huntsman" />
-    <string id="MLTWLT22" text="Wulltes Militia Veteran Soldier" />
-    <string id="MLTWLT23" text="Wulltes Militia Veteran Huntsman" />
+    <string id="NTWLT01" text="Сельский житель Вультеса" />
+    <string id="NTWLT02" text="Охотник Вультеса" />
+    <string id="NTWLT03" text="Ремесленник Вультеса" />
+    <string id="NTWLT04" text="Застрельщик Вультеса" />
+    <string id="NTWLT05" text="Солдат Вультеса" />
+    <string id="NTWLT06" text="Лучник Вультеса" />
+    <string id="NTWLT07" text="Конный топорник Вультеса" />
+    <string id="NTWLT08" text="Топоршик Вультеса" />
+    <string id="NTWLT09" text="Ударный топорщик Вультеса" />
+    <string id="NTWLT10" text="Гвардия Вультеса" />
+    <string id="NTWLT11" text="Элитный лучник Вультеса" />
+    <string id="NTWLT12" text="Главный лучник Вультеса" />
+    <string id="OTWLT13" text="Герой Вультеса" />
+    <string id="OTWLT14" text="Вультесский воин с луком" />
+    <string id="OTWLT15" text="Вультесский воин с топором" />
+    <string id="OTWLT16" text="Вультесский ветеран с луком" />
+    <string id="OTWLT17" text="Вультесский ветеран с топором" />
+    <string id="OTWLT18" text="Мастер-лучник Вультеса" />
+    <string id="OTWLT19" text="Искусный топорщик Вультеса" />
+    <string id="MLTWLT20" text="Вультесский солдат ополчения" />
+    <string id="MLTWLT21" text="Вультесский охотник ополчения" />
+    <string id="MLTWLT22" text="Вультесский солдат-ветеран ополчения" />
+    <string id="MLTWLT23" text="Вультесский охотник-ветеран ополчения" />
 
     <!-- 落月 -->
-    <string id="NTLMC01" text="Lomoca Villager" />
-    <string id="NTLMC02" text="Lomoca Ashigaru" />
-    <string id="NTLMC03" text="Lomoca Trained Ashigaru" />
-    <string id="NTLMC04" text="Lomoca Pike Ashigaru" />
-    <string id="NTLMC05" text="Lomoca Experienced Ashigaru" />
-    <string id="NTLMC06" text="Lomoca Bow Ashigaru" />
-    <string id="NTLMC07" text="Lomoca Katana Ashigaru" />
-    <string id="NTLMC08" text="Lomoca Shield Ashigaru" />
-    <string id="NTLMC09" text="Lomoca Naginata Soldier" />
-    <string id="NTLMC10" text="Lomoca Pike Soldier" />
-    <string id="NTLMC11" text="Lomoca Bowman" />
-    <string id="NTLMC12" text="Lomoca Infantry" />
-    <string id="OTLMC13" text="Lomoca Retinue" />
-    <string id="OTLMC14" text="Lomoca Samurai" />
-    <string id="OTLMC15" text="Lomoca Katana Samurai" />
-    <string id="OTLMC16" text="Lomoca Riding Samurai" />
-    <string id="OTLMC17" text="Lomoca No-Dachi Samurai" />
-    <string id="OTLMC18" text="Lomoca Katana Riding Samurai" />
-    <string id="MLTLMC19" text="Lomoca Garrison Infantry" />
-    <string id="MLTLMC20" text="Lomoca Garrison Bowman" />
-    <string id="MLTLMC21" text="Lomoca Garrison Veteran" />
-    <string id="MLTLMC22" text="Lomoca Garrison Veteran Bowman" />
+    <string id="NTLMC01" text="Селянин Ломока" />
+    <string id="NTLMC02" text="Асигару династии Ломока" />
+    <string id="NTLMC03" text="Обученный асигару династии Ломока" />
+    <string id="NTLMC04" text="Пикинер-асигару династии Ломока" />
+    <string id="NTLMC05" text="Опытный асигару династии Ломока" />
+    <string id="NTLMC06" text="Лучник-асигару династии Ломока" />
+    <string id="NTLMC07" text="Мечник-асигару династии Ломока" />
+    <string id="NTLMC08" text="Щитоносец-асигару династии Ломока" />
+    <string id="NTLMC09" text="Нагината династии Ломока" />
+    <string id="NTLMC10" text="Пикинер династии Ломока" />
+    <string id="NTLMC11" text="Лучник династии Ломока" />
+    <string id="NTLMC12" text="Пехота династии Ломока" />
+    <string id="OTLMC13" text="Дружина династии Ломока" />
+    <string id="OTLMC14" text="Самурай династии Ломока" />
+    <string id="OTLMC15" text="Мечник-самурай династии Ломока" />
+    <string id="OTLMC16" text="Конный самурай династии Ломока" />
+    <string id="OTLMC17" text="Одати династии Ломока" />
+    <string id="OTLMC18" text="Конный мечник-самурай Ломока" />
+    <string id="MLTLMC19" text="Пехота ополчения Ломока" />
+    <string id="MLTLMC20" text="Лучник ополчения Ломока" />
+    <string id="MLTLMC21" text="Ветеран ополчения Ломока" />
+    <string id="MLTLMC22" text="Лучник-ветеран ополчения Ломока" />
 
     <!-- 雅瑞安 -->
-    <string id="NTYRN01" text="Yarian Tribesman" />
-    <string id="NTYRN02" text="Yarian Tribal Recruit" />
-    <string id="NTYRN03" text="Yarian Tribal Hunter" />
-    <string id="NTYRN04" text="Yarian Tribal Warrior" />
-    <string id="NTYRN05" text="Yarian Club Warrior" />
-    <string id="NTYRN06" text="Yarian Spear Warrior" />
-    <string id="NTYRN07" text="Yarian Tribal Archer" />
-    <string id="NTYRN08" text="Yarian Adamant Warrior" />
-    <string id="NTYRN09" text="Yarian Acuminate Warrior" />
-    <string id="NTYRN10" text="Yarian Tribal Powerful Archer" />
-    <string id="NTYRN11" text="Yarian Jungle Warrior" />
-    <string id="OTYRN12" text="Yarian Chosen Warrior" />
-    <string id="OTYRN13" text="Yarian Stone-Thrower" />
-    <string id="OTYRN14" text="Yarian Greatclub Warrior" />
-    <string id="OTYRN15" text="Yarian Vultur Warrior" />
-    <string id="OTYRN16" text="Yarian Agama Warrior" />
-    <string id="MLTYRN17" text="Yarian Camp Guard Warrior" />
-    <string id="MLTYRN18" text="Yarian Camp Guard Thrower" />
-    <string id="MLTYRN19" text="Yarian Strong Camp Guard" />
-    <string id="MLTYRN20" text="Yarian Strong Camp Thrower" />
+    <string id="NTYRN01" text="Ярийский соплеменник" />
+    <string id="NTYRN02" text="Ярийский рекрут племени" />
+    <string id="NTYRN03" text="Ярийский охотник племени" />
+    <string id="NTYRN04" text="Ярийский воин племени" />
+    <string id="NTYRN05" text="Ярийский крушитель" />
+    <string id="NTYRN06" text="Ярийский пехотинец с копьем" />
+    <string id="NTYRN07" text="Ярийский лучник племени" />
+    <string id="NTYRN08" text="Ярийский воитель" />
+    <string id="NTYRN09" text="Ярийский проницательный воин" />
+    <string id="NTYRN10" text="Ярийский тяжелый стрелок племени" />
+    <string id="NTYRN11" text="Ярийский воин джунглей" />
+    <string id="OTYRN12" text="Ярийский избранный" />
+    <string id="OTYRN13" text="Ярийский метатель камней" />
+    <string id="OTYRN14" text="Ярийский разрушитель" />
+    <string id="OTYRN15" text="Ярийский стервятник" />
+    <string id="OTYRN16" text="Ярийский воин игуаны" />
+    <string id="MLTYRN17" text="Ярийский воин гарнизона" />
+    <string id="MLTYRN18" text="Ярийский метатель гарнизона" />
+    <string id="MLTYRN19" text="Ярийский опорный солдат гарнизона" />
+    <string id="MLTYRN20" text="Ярийский сильный метатель гарнизона" />
 
     <!-- 旧强盗 -->
-    <string id="NTBDT01" text="Looter" />
-    <string id="NTBDT02" text="Robber" />
-    <string id="NTBDT03" text="Rascals" />
-    <string id="NTBDT04" text="Roving Bandit" />
-    <string id="NTBDT05" text="Roving Bandit Headman" />
-    <string id="NTBDT06" text="Outlaw" />
-    <string id="NTBDT07" text="Bandit" />
-    <string id="NTBDT08" text="Bandit Headman" />
-    <string id="NTBDT09" text="Refugee" />
-    <string id="NTBDT10" text="Sand Bandit" />
-    <string id="NTBDT11" text="Sand Bandit Headman" />
-    <string id="NTBDT12" text="Woods Bandit" />
-    <string id="NTBDT13" text="Brigands" />
-    <string id="NTBDT14" text="Brigands Headman" />
-    <string id="NTBDT15" text="Horse Looter" />
-    <string id="NTBDT16" text="Horse Bandit" />
-    <string id="NTBDT17" text="Horse Bandit Headman" />
-    <string id="NTBDT18" text="Water Looter" />
-    <string id="NTBDT19" text="Sea Bandit" />
-    <string id="NTBDT20" text="Sea Bandit Headman" />
+    <string id="NTBDT01" text="Мародер" />
+    <string id="NTBDT02" text="Бандит" />
+    <string id="NTBDT03" text="Разбойник" />
+    <string id="NTBDT04" text="Броядга" />
+    <string id="NTBDT05" text="Главарь бродяги" />
+    <string id="NTBDT06" text="Преступник" />
+    <string id="NTBDT07" text="Вор" />
+    <string id="NTBDT08" text="Главарь воров" />
+    <string id="NTBDT09" text="Беженец" />
+    <string id="NTBDT10" text="Пустынный бандит" />
+    <string id="NTBDT11" text="Главарь пустынных бандитов" />
+    <string id="NTBDT12" text="Лесной бандит" />
+    <string id="NTBDT13" text="Грабитель" />
+    <string id="NTBDT14" text="Главарь грабителей" />
+    <string id="NTBDT15" text="Конокрад" />
+    <string id="NTBDT16" text="Конокрад-бандит" />
+    <string id="NTBDT17" text="Главарь конокрадов" />
+    <string id="NTBDT18" text="Морской пират" />
+    <string id="NTBDT19" text="Морской налетчик" />
+    <string id="NTBDT20" text="Капитан морских налетчиков" />
     <!-- 新强盗 -->
-    <string id="NTBDT21" text="Deserters Person" />
-    <string id="NTBDT22" text="Deserters Soldier" />
-    <string id="NTBDT23" text="Deserters Warrior" />
-    <string id="NTBDT24" text="Deserters Madman" />
-    <string id="NTBDT25" text="Deserters Sergeant" />
-    <string id="NTBDT26" text="Deserters Guard" />
-    <string id="NTBDT27" text="Pagan" />
-    <string id="NTBDT28" text="Pagan Servants" />
-    <string id="NTBDT29" text="Pagan Frenetic" />
-    <string id="NTBDT30" text="Pagan Emissary" />
-    <string id="NTBDT31" text="Pagan Guardian" />
-    <string id="NTBDT32" text="Pagan Master" />
-    <string id="NTBDT33" text="Raider" />
-    <string id="NTBDT34" text="Raid Bandit" />
-    <string id="NTBDT35" text="Raid Warrior" />
-    <string id="NTBDT36" text="Raid Horseman" />
-    <string id="NTBDT37" text="Raid Ranger" />
-    <string id="NTBDT38" text="Raid Knight" />
-    <string id="NTBDT39" text="Wild Woods Rogue" />
-    <string id="NTBDT40" text="Wild Woods Hunter" />
-    <string id="NTBDT41" text="Wild Woods Slayer" />
-    <string id="NTBDT42" text="Wild Woods Warrior" />
-    <string id="NTBDT43" text="Wild Woods Guard" />
-    <string id="NTBDT44" text="Wild Woods Ranger" />
-    <string id="NTBDT45" text="Pirate Deserters" />
-    <string id="NTBDT46" text="Pirate Looter" />
-    <string id="NTBDT47" text="Pirate Warrior" />
-    <string id="NTBDT48" text="Pirate Elite" />
-    <string id="NTBDT49" text="Pirate Raider" />
-    <string id="NTBDT50" text="Pirate Fearless Warrior" />
-    <string id="NTBDT51" text="Desert Survivor" />
-    <string id="NTBDT52" text="Desert Searcher" />
-    <string id="NTBDT53" text="Desert Pathfinder" />
-    <string id="NTBDT54" text="Desert Adventurer" />
-    <string id="NTBDT55" text="Frat Elite" />
-    <string id="NTBDT56" text="Frat Master" />
+    <string id="NTBDT21" text="Дезертир" />
+    <string id="NTBDT22" text="Дезертир-солдат" />
+    <string id="NTBDT23" text="Дезертир-воин" />
+    <string id="NTBDT24" text="Дезертир-фанатик" />
+    <string id="NTBDT25" text="Дезертир-сержант" />
+    <string id="NTBDT26" text="Дезертир-страж" />
+    <string id="NTBDT27" text="Язычник" />
+    <string id="NTBDT28" text="Слуга язычников" />
+    <string id="NTBDT29" text="Фанатик язычников" />
+    <string id="NTBDT30" text="Эмиссар язычников" />
+    <string id="NTBDT31" text="Гвардия язычников" />
+    <string id="NTBDT32" text="Главный язычник" />
+    <string id="NTBDT33" text="Рейдер" />
+    <string id="NTBDT34" text="Рейдер-бандит" />
+    <string id="NTBDT35" text="Рейдер-воин" />
+    <string id="NTBDT36" text="Рейдер-всадник" />
+    <string id="NTBDT37" text="Рейдер-стрелок" />
+    <string id="NTBDT38" text="Рыцарь рейдеров" />
+    <string id="NTBDT39" text="Вор Дикого Леса" />
+    <string id="NTBDT40" text="Охотник Дикого Леса" />
+    <string id="NTBDT41" text="Убийца Дикого Леса" />
+    <string id="NTBDT42" text="Воин Дикого Леса" />
+    <string id="NTBDT43" text="Страж Дикого Леса" />
+    <string id="NTBDT44" text="Рейнджер Дикого Леса" />
+    <string id="NTBDT45" text="Пират-дезертир" />
+    <string id="NTBDT46" text="Пират-мародер" />
+    <string id="NTBDT47" text="Пират-воин" />
+    <string id="NTBDT48" text="Пират-ветеран" />
+    <string id="NTBDT49" text="Пират-рейдер" />
+    <string id="NTBDT50" text="Бесстрашный воин пиратов" />
+    <string id="NTBDT51" text="Пустынный выживший" />
+    <string id="NTBDT52" text="Пустынный исследователь" />
+    <string id="NTBDT53" text="Пустынный искатель" />
+    <string id="NTBDT54" text="Пустынный авантюрист" />
+    <string id="NTBDT55" text="Элита Братства" />
+    <string id="NTBDT56" text="Главарь Братства" />
 
     <!-- 雇佣兵 -->
-    <string id="NTMCR01" text="Explorer Watchman" />
-    <string id="NTMCR02" text="Explorer Crossbowman" />
-    <string id="NTMCR03" text="Explorer Swordsman" />
-    <string id="NTMCR04" text="Explorer Scouts" />
-    <string id="NTMCR05" text="Explorer Infantry" />
-    <string id="NTMCR06" text="Explorer Horseman" />
-    <string id="NTMCR07" text="Explorer Blade" />
-    <string id="NTMCR08" text="Explorer Cavalry" />
+    <string id="NTMCR01" text="Экспедиционный караульный" />
+    <string id="NTMCR02" text="Экспедиционный арбалетчик" />
+    <string id="NTMCR03" text="Экспедиционный мечник" />
+    <string id="NTMCR04" text="Экспедиционный разведчик" />
+    <string id="NTMCR05" text="Экспедиционная пехота" />
+    <string id="NTMCR06" text="Экспедиционный всадник" />
+    <string id="NTMCR07" text="Экспедиционный клинок" />
+    <string id="NTMCR08" text="Экспедиционный кавалерист" />
     <!-- 覆盖原版的商队头领名字 -->
-    <string id="NTMCR09" text="Rabblam Caravan Master" />
-    <string id="NTMCR10" text="Wulltes Caravan Master" />
-    <string id="NTMCR11" text="Yan Caravan Master" />
-    <string id="NTMCR12" text="Mogrian Caravan Master" />
-    <string id="NTMCR13" text="Nekenia Caravan Master" />
-    <string id="NTMCR14" text="Prouen Caravan Master" />
-    <string id="NTMCR15" text="Yarian Caravan Master" />
-    <string id="NTMCR16" text="Lomoca Caravan Master" />
+    <string id="NTMCR09" text="Эбрамонтский караванщик" />
+    <string id="NTMCR10" text="Караванщик Вультеса" />
+    <string id="NTMCR11" text="Караванщик Ян" />
+    <string id="NTMCR12" text="Могрианский караванщик" />
+    <string id="NTMCR13" text="Караванщик Некении" />
+    <string id="NTMCR14" text="Пруэнский караванщик" />
+    <string id="NTMCR15" text="Ярийский караванщик" />
+    <string id="NTMCR16" text="Караванщик династии Ломока" />
     <!-- 覆盖原版商队护卫的名字 -->
 
     <!-- 剧情用兵种 -->
-    <string id="STT01" text="Slavers Looter" />
-    <string id="STT02" text="Slavers Bandit" />
-    <string id="STT03" text="Slavers Warrior" />
-    <string id="STT04" text="Slavers Rider" />
+    <string id="STT01" text="Разбойник-раб" />
+    <string id="STT02" text="Бандит-раб" />
+    <string id="STT03" text="Воин-раб" />
+    <string id="STT04" text="Наездник-раб" />
     <string id="STT05" text="" />
-    <string id="STT06" text="Caravan Guard" />
-    <string id="STT07" text="Slavers Archer" />
-    <string id="STT08" text="Demons" />
-    <string id="STT09" text="Low-Grade Demons" />
-    <string id="STT10" text="Mania Demons" />
-    <string id="STT11" text="Bloodthirsty Demons" />
-    <string id="STT12" text="Demons Larva" />
-    <string id="STT13" text="Demons Matrix" />
-    <string id="STT14" text="Strong Demons" />
+    <string id="STT06" text="Охранник каравана" />
+    <string id="STT07" text="Лучник-раб" />
+    <string id="STT08" text="Демон" />
+    <string id="STT09" text="Низший демон" />
+    <string id="STT10" text="Маниакальный демон" />
+    <string id="STT11" text="Кровожадный демон" />
+    <string id="STT12" text="Малый демон" />
+    <string id="STT13" text="Демоническая матрица" />
+    <string id="STT14" text="Сильный демон" />
 
     <string id="NTSTY04" text="Slavers Looter" />
     <string id="NTSTY05" text="Slavers Thug" />
@@ -309,17 +309,17 @@
     <string id="NTSTY13" text="Slavers Captain" />
 
     <!-- 特殊势力小家族用兵种 -->
-    <string id="NTMNR01" text="Dark Wave Knight" />
-    <string id="NTMNR02" text="Devour Demons" />
-    <string id="NTMNR03" text="Blood Lotus Revenge Knight" />
-    <string id="NTMNR04" text="White Frost Templar Warrior" />
-    <string id="NTMNR05" text="Evil Flame Knight" />
-    <string id="NTMNR06" text="Obscure Soul Judge Knight" />
+    <string id="NTMNR01" text="Рыцарь Черной Волны" />
+    <string id="NTMNR02" text="Демон-пожиратель" />
+    <string id="NTMNR03" text="Ищущей мести рыцарь Кровавого Лотуса" />
+    <string id="NTMNR04" text="Тамплиер Белого Мороза" />
+    <string id="NTMNR05" text="Рыцарь Пламени Скверны" />
+    <string id="NTMNR06" text="Темный рыцарь правосудия" />
 
     <!-- 特殊兵种 -->
-    <string id="NTSTY01" text="Inquisitor" />
-    <string id="NTSTY02" text="Silver Shield Knight" />
-    <string id="NTSTY03" text="Sika Knight" />
+    <string id="NTSTY01" text="Инквизитор" />
+    <string id="NTSTY02" text="Рыцарь Серебряного Щита" />
+    <string id="NTSTY03" text="Рыцарь Сики" />
 
   </strings>
 </base>
